@@ -32,7 +32,7 @@ const LeftPanel = () => {
         </Typography>
       </Box>
       <Box>
-        <img src={Coffee} width='100%'/>
+        <img src={Coffee} alt='Coffee image' width='100%'/>
       </Box>
     </Box>
   )
