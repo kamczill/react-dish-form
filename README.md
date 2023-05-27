@@ -23,7 +23,7 @@ Before running the application, ensure you have the following installed:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/react-dish-form.git
+   git clone https://github.com/kamczill/react-dish-form.git
 
 2. Navigate to the project directory:
 
@@ -52,7 +52,7 @@ Before running the application, ensure you have the following installed:
 
 Check out the live demo of the Dish Form:
 
-[Live Demo](https://your-demo-url.com)
+[Live Demo](https://dazzling-taffy-fc4c48.netlify.app/)
 
 ## License
 This project is licensed under the MIT License.
