@@ -111,21 +111,22 @@ const Form = () => {
             onSubmit={(values, props) => handleSubmit({values, props})}
         >
             {props => (
-                <Box as='form' 
+                <Box 
+                    as='form' 
                     onSubmit={props.handleSubmit} 
                     width='100vw' 
                     maxWidth='300px' 
                     display='flex' 
                     flexDirection='column' 
                     gap='1rem' 
-                    p='1rem'
+                    p='1'
                 >
                     <Box>
                         <Typography variant='h4' fontFamily='Inter'>
                             It's a DishForm
                         </Typography>
                         <Typography fontFamily='Inter'>
-                            When your data doesn't pass a validation on server, errors will be seen in the below form
+                            When your data doesn't pass a validation on server, errors will be seen in thebelow form
                         </Typography>
                     </Box>
                     <Box marginTop='1rem'>

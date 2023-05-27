@@ -20,15 +20,17 @@ const LeftPanel = () => {
           variant='h2' 
           fontWeight='600' 
           fontFamily='Inter'
+          color='#ffffff'
         >
-          Dishes
+          Send a dish
         </Typography>
         <Typography 
-          fontWeight='400' 
+          fontWeight='300' 
           align='center' 
           fontFamily='Inter'
+          color='#ffffff'
         >
-          Provide your dish
+          Recruitment task
         </Typography>
       </Box>
       <Box>
