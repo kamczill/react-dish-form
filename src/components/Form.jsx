@@ -118,7 +118,7 @@ const Form = () => {
                     display='flex' 
                     flexDirection='column' 
                     gap='1rem' 
-                    p='1'
+                    p='1rem'
                 >
                     <Box>
                         <Typography variant='h4' fontFamily='Inter'>
